@@ -1,0 +1,535 @@
+What is critical thinking?
+Critical thinking involves objectively analyzing information to make reasoned judgments.
+It goes beyond technical knowledge, delving into an individual's analytical and reasoning capabilities. 
+This skill is particularly significant in cybersecurity due to the field's rapid evolution, complexity, and constantly changing environment.
+Additionally, cybersecurity involves various stakeholders, ruthless adversaries, and a continuous influx of new technologies.
+
+
+## **Scenario One: Privacy vs. Personalization**
+
+* **Choice:** Keep online activities private and untracked.
+* **Reasoning:**
+
+  * *Personal level*: Protects me from profiling, targeted ads, and potential misuse of my data.
+  * *Societal level*: Reduces normalization of mass surveillance and data exploitation.
+  * *Global level*: Encourages stronger data protection laws and ethical digital practices.
+  * *Trade-off*: Less convenience (no auto-suggestions, fewer personalized services), but the long-term gain in trust and security outweighs the loss.
+
+---
+
+## **Scenario Two: Security vs. Usability**
+
+* **Choice:** Highly secure accounts with MFA and strong protocols.
+* **Reasoning:**
+
+  * *Personal level*: Protects against account breaches, identity theft, and ransomware.
+  * *Societal level*: Limits attack vectors, making communities and organizations more resilient to cybercrime.
+  * *Global level*: Strengthens cybersecurity hygiene, making it harder for large-scale attacks to succeed.
+  * *Trade-off*: Slight inconvenience (extra login steps), but security is more critical in today’s cyber threat landscape.
+
+---
+
+## **Scenario Three: Innovation vs. Regulation**
+
+* **Choice:** Advocate for balanced **regulation of new technologies**.
+* **Reasoning:**
+
+  * *Personal level*: Ensures my rights and privacy are not violated by unchecked AI, surveillance, or biotech.
+  * *Societal level*: Protects vulnerable groups from misuse while still allowing ethical innovation.
+  * *Global level*: Prevents misuse of powerful tech (e.g., deepfakes, autonomous weapons, exploitative AI).
+  * *Trade-off*: Some innovations may be slowed, but controlled growth ensures long-term trust and sustainability.
+
+---
+
+✅ **Summary of My Choices**
+
+1. **Privacy over personalization** → because once data is lost, it cannot be retrieved.
+2. **Security over convenience** → because security lapses have larger consequences.
+3. **Regulation over unrestricted innovation** → because ethical safeguards are necessary in a connected world.
+
+---
+# Cybersecurity Insights – Module Summary ✅
+
+## Key Historical Milestones
+- **NSDD 145 (Sept 17, 1984):** America’s first national cybersecurity policy, inspired by the *WarGames* movie.  
+- **9/11 Cybersecurity Surge:** Led to creation of **DHS** (Department of Homeland Security) and **NCSD** (National Cyber Security Division).  
+- **COVID-19 Era:** Highlighted the need for collaboration between the cybersecurity community, organizations, and the public.  
+
+## Evolution of Cybersecurity
+- Started in the **early 1970s** with the first computer worm.  
+- Has grown alongside increasing digital dependence and complexity.  
+
+## Importance of Critical Thinking
+- **Foundation of effective cybersecurity** – helps anticipate threats, innovate, and make informed decisions.  
+- Applications in cybersecurity include:
+  - Evaluating online information  
+  - Productive discussions  
+  - Ethical decision-making  
+  - Root cause analysis  
+  - Adapting to new technologies  
+  - Lifelong learning mindset  
+
+## Critical Thinking Model (5 Elements)
+1. Characteristics of thought  
+2. Technical skills  
+3. Interpersonal skills  
+4. Theoretical + experimental knowledge  
+5. Intellectual abilities  
+
+## Five Core Critical Thinking Skills
+- Challenge assumptions  
+- Consider alternatives  
+- Evaluate data  
+- Identify key drivers  
+- Understand context  
+
+---
+# Module 1 Glossary: Cybersecurity Insights 📘
+
+Welcome! This alphabetized glossary contains the names and definitions of specialized terms used across this course.  
+These terms are essential for working in the industry, participating in user groups, and advancing in certificate programs.
+
+---
+
+## Glossary Terms
+
+| **Term** | **Definition** |
+|----------|----------------|
+| **Advanced Research Projects Agency Network (ARPANET)** | The first wide-area, packet-switched network with distributed control and one of the first computer networks to implement the TCP/IP protocol suite. |
+| **Bring-your-own-device (BYOD)** | A business policy that permits employees to use personal devices for work-related tasks. |
+| **Cybersecurity and Infrastructure Security Agency (CISA)** | A United States agency responsible for cybersecurity and infrastructure protection across all levels of government. |
+| **Critical thinking** | A capability of objectively analyzing information and forming reasoned judgments. |
+| **Critical thinking model** | A model that comprises five elements: characteristics of thought, technical skills, interpersonal skills, theoretical and experimental knowledge, and intellectual abilities. |
+| **Department of Homeland Security (DHS)** | A department to safeguard the nation from physical and cyber threats. |
+| **Foreign Intelligence Surveillance Court (FISC)** | A foreign intelligence surveillance court entertains applications made by the United States Government for approval of electronic surveillance, physical search, and certain other forms of investigative actions for foreign intelligence purposes. |
+| **General Data Protection Regulation (GDPR)** | A regulation that lists the rights of the data subject, meaning the rights of the individuals whose personal data is being processed. |
+| **International Monetary Fund (IMF)** | A policy to promote financial stability and monetary cooperation. |
+| **Mobile Device Management (MDM)** | A proven methodology and toolset that provides a workforce with mobile productivity tools and applications while keeping corporate data secure. |
+| **Mobile Telecommunications Networks (MTN)** | A telecommunications company. |
+| **National Cyber Security Division (NCSD)** | A division of the Office of Cyber Security and Communications, within the U.S. Department of Homeland Security's Cybersecurity and Infrastructure Security Agency. |
+| **National Security Agency (NSA)** | An agency that prevents and eradicates threats to U.S. national security systems with a focus on the Defense Industrial Base and the improvement of weapons' security. |
+| **National Security Decision Directives (NSDD) 145** | A directive that gave the NSA control over all government computer systems containing "sensitive but unclassified" information. |
+| **National Telecommunications and Information Systems Security Committee (NTISSC)** | A committee that provides a forum for the discussion of policy issues, sets national policy, and promulgates direction, operational procedures, and guidance for the security of national security systems through the NSTISSC issuance system. |
+| **USA Freedom Act** | An act that was enacted in 2015 and limited the scope of surveillance by intelligence agencies. |
+| **USA PATRIOT Act** | An act uniting and strengthening America by providing appropriate tools required to intercept and obstruct terrorism. |
+| **War Operation Plan Response (WOPR)** | A war game programmed to continuously run military simulations and learn over time. |
+
+---
+
+# Insider Attacks
+
+## 🎯 Objectives
+
+After completing this reading, you will be able to:
+
+* Explain insider attacks
+* Compare and contrast various types of insider attacks
+
+---
+
+## 🔐 What are Insider Attacks?
+
+* **Definition:** Attacks carried out by people with authorized access to an organization’s resources, systems, or networks.
+* **Nature:**
+
+  * **Intentional:** Malice, grievance, or financial incentive.
+  * **Unintentional:** Negligence or lack of awareness.
+* **Why dangerous?** They originate from inside the organization, making them harder to detect and prevent.
+
+---
+
+## 🧑‍💼 Types of Insider Attacks
+
+### 1. The Oblivious Insider
+
+* Unaware of risks → unintentionally exposes the organization.
+* Example: Falling for a phishing scam.
+* **Impact:** Harmless intent but serious consequences.
+
+### 2. The Negligent Insider
+
+* Ignores or bypasses security protocols for convenience.
+* Example: Leaving systems unsecured or sharing info over unencrypted channels.
+* **Impact:** Creates vulnerabilities for attackers.
+
+### 3. The Malicious Insider
+
+* Has knowledge and access → deliberately harms the organization.
+* Motivation: Personal grievances, financial gain, or revenge.
+* Example: Stealing data, sabotaging systems.
+
+### 4. The Professional Insider
+
+* Recruited by a competitor or foreign entity (espionage).
+* Example: Leaks intellectual property to empower rivals.
+* **Impact:** Systematic, long-term damage.
+
+---
+
+✅ **Summary:**
+Insider attacks can be **accidental** (oblivious, negligent) or **deliberate** (malicious, professional). Organizations must enforce **awareness training, strict access control, and monitoring** to mitigate these risks.
+
+---
+
+# 📌 Malware Types (Quick Notes)
+
+### **1. Adware**
+
+* Shows unwanted ads on device.
+* Annoying but sometimes leads to more harmful infections.
+
+### **2. Bot**
+
+* Automated malware → used to form **botnets**.
+* Controlled remotely by **command-and-control (C2) servers**.
+
+### **3. Fileless Malware**
+
+* Runs directly in **computer memory**.
+* Leaves no files on disk → hard to detect.
+
+### **4. Keylogger**
+
+* Records **keystrokes**.
+* Steals sensitive info like passwords, banking details.
+
+### **5. Logic Bomb**
+
+* Malicious code that activates when a **specific condition/event** occurs.
+* Example: triggers on a certain date.
+
+### **6. Malvertising**
+
+* **Malicious ads** with hidden malware code.
+* Clicking → infection.
+
+### **7. Ransomware**
+
+* Encrypts files, demands **payment (ransom)** for decryption.
+* Very destructive.
+
+### **8. Rootkit**
+
+* **Stealth malware** → hides itself, gives attacker **system-level access**.
+
+### **9. Spyware**
+
+* Secretly collects user data (browsing, personal info).
+* Often sold for advertising/fraud.
+
+### **10. Trojan**
+
+* **Disguises as legit software**.
+* User installs → malware executes.
+
+### **11. Virus**
+
+* Attaches to **files/programs**.
+* Needs user action to spread (e.g., opening infected file).
+
+### **12. Worm**
+
+* **Self-replicating**.
+* Spreads across networks **without user interaction**.
+
+---
+
+📖 **Tip for Exams / Interviews:**
+
+* **Virus vs Worm**: Virus needs a host file, Worm spreads independently.
+* **Trojan vs Spyware**: Trojan deceives users, Spyware steals info secretly.
+* **Rootkit vs Fileless**: Rootkit hides itself in system, Fileless hides by avoiding disk storage.
+
+---
+
+# 🛡️ Malware Detection with Rootkit Hunters
+
+## 📌 Objectives
+
+* Explain how hackers leverage rootkits to gain privileged access to a system
+* Analyze how a rootkit hunter can scan for malware
+
+---
+
+## 🔍 What is a Rootkit?
+
+* **Rootkit = malicious software** used by hackers to gain **administrator (root) access**.
+* Enables attackers to:
+
+  * Modify/delete critical data
+  * Change system configurations
+  * Operate remotely without detection
+* Often **hides itself** and masks other malware like **keyloggers, spyware** → making it hard for antivirus to detect.
+
+---
+
+## 🛠️ What is rkhunter?
+
+* **Rootkit Hunter (rkhunter)** = security tool for **Linux/Unix systems**.
+* Detects:
+
+  * Rootkits
+  * Backdoors
+  * Local exploits & vulnerabilities
+* Works by comparing files/system components against a **database of known malware signatures & behaviors**.
+
+---
+
+## ⚡ How rkhunter Scans for Malware
+
+* Scans **file systems** for anomalies
+* Compares **system command outputs** with expected safe values
+* Detects **unauthorized remote access tools** (backdoors)
+* Audits **system configurations** for misconfigurations
+* Provides **reports + recommended remediation steps**
+
+✅ Runs **on-demand scans** & **alerts admins** of suspicious activity
+
+---
+
+## 🔐 Maximizing Security with rkhunter
+
+To strengthen defenses:
+
+* Combine with **IDS (Intrusion Detection Systems)**
+* Use **firewall configurations**
+* Apply **regular software updates**
+* Enforce **user access controls**
+* Follow **secure network policies**
+
+---
+
+✨ **Reflection:**
+Rkhunter isn’t just a scanner—it’s a **first line of defense** for Linux servers. But for real security, it must work **with other tools and practices**.
+
+---
+
+### **Types of Social Engineering Attacks**
+
+1. **Phishing** – Mass emails/messages posing as trusted sources to steal credentials or trick users into clicking malicious links.
+2. **Spear Phishing** – Targeted phishing aimed at specific individuals/organizations, often personalized.
+3. **Whaling** – Spear phishing that targets executives or high-level individuals (CEOs, CFOs).
+4. **Vishing (Voice Phishing)** – Phone-based scams where attackers pretend to be legitimate entities.
+5. **Tailgating** – Gaining physical access by following someone into a restricted area.
+6. **Impersonation** – Pretending to be someone trusted (e.g., IT support, vendor, employee).
+7. **Dumpster Diving** – Retrieving sensitive information from discarded items (papers, drives, notes).
+8. **Shoulder Surfing** – Watching someone enter sensitive data (passwords, PINs, etc.).
+9. **Hoax** – Spreading false information or fake alerts to trick users into unnecessary/malicious actions.
+10. **Watering Hole Attack** – Compromising a website frequently visited by targets to spread malware or steal data.
+
+---
+
+👉 **Quick memory tip:**
+
+* **Digital tricks** → Phishing, spear phishing, whaling, vishing, watering hole, hoax.
+* **Physical tricks** → Tailgating, impersonation, dumpster diving, shoulder surfing.
+
+---
+
+# 🛡️ How to Prevent Social Engineering
+
+## 🎯 Objectives
+
+* Identify methods for preventing **digital social engineering attacks**
+* Identify methods for preventing **physical social engineering attacks**
+
+---
+
+## 🌐 Preventing Digital Social Engineering Attacks
+
+### 🔑 Key Strategies
+
+1. **Enable Multifactor Authentication (MFA)**
+
+   * Adds extra verification layers → reduces risk if passwords are stolen.
+
+2. **Monitor Network Traffic**
+
+   * Watch user behavior + validate sender identities (emails/calls).
+
+3. **Identify & Protect Critical Assets**
+
+   * Focus security controls on **high-value targets** (IP, databases, credentials).
+
+4. **Use SSL Certificates (HTTPS)**
+
+   * Encrypt communication with SSL/TLS.
+   * Always verify websites → *look for* `https://` not `http://`.
+
+5. **Perform Penetration Testing**
+
+   * Simulate attacks to find vulnerabilities.
+   * Patch systems quickly after findings.
+
+6. **Enable Spam Filters**
+
+   * Block phishing & malicious emails automatically.
+
+7. **Be Aware of Digital Footprints**
+
+   * Limit exposure of personal/company data online.
+   * Prevents attackers from crafting believable scams.
+
+---
+
+## 🏢 Preventing Physical Social Engineering Attacks
+
+### 🔑 Key Strategies
+
+1. **Conduct Awareness Training**
+
+   * Teach employees to avoid **shoulder surfing**.
+   * Shield keypads, be alert in public areas.
+
+2. **Secure Disposal Practices**
+
+   * Stop **dumpster diving** → shred sensitive docs + wipe/destroy drives before disposal.
+
+3. **Control Access**
+
+   * Prevent **tailgating** with:
+
+     * Individual authentication systems (badges, biometrics)
+     * Employee vigilance
+     * Security guards & surveillance
+
+---
+
+## ✨ Quick Takeaway
+
+Social engineering isn’t just about **technology**—it targets **human behavior**.
+🧠 The best defense = **awareness training + layered technical safeguards**.
+
+---
+
+# 📘 Module 2 Glossary: Cybersecurity Threats
+
+These terms are essential for understanding cybersecurity attacks, defenses, and industry practices.
+
+---
+
+### 🛑 Malware & Malicious Tools
+
+* **Adware** – Malicious software that displays unwanted advertisements on a user’s device.
+* **Bot** – Automated software that performs malicious tasks over the internet. Bots often form **botnets**, controlled by a command-and-control server.
+* **Fileless malware** – Malware that runs in memory without leaving traces on disk.
+* **Keylogger** – Records keystrokes to steal sensitive information.
+* **Logic bomb** – Dormant malicious code that triggers under specific conditions.
+* **Malvertising** – Ads containing hidden malware.
+* **Malware** – Software created to disrupt, damage, or gain unauthorized access to systems.
+* **Ransomware** – Encrypts victim’s files and demands ransom for decryption.
+* **Rootkit** – Stealth malware that hides processes and grants unauthorized system control.
+* **Spyware** – Collects user data and internet behavior secretly.
+* **Trojan** – Disguises as legitimate software but delivers malicious code.
+* **Virus** – Attaches to files, spreads, and corrupts systems.
+* **Worm** – Self-replicating malware spreading without human action.
+
+---
+
+### 🎭 Social Engineering & Deception
+
+* **Deep fakes** – AI-generated fake voices, images, or videos.
+* **Dumpster diving** – Searching trash for sensitive data.
+* **General phishing** – Mass phishing email attacks.
+* **Hoax** – False alarms or misinformation to cause panic or deception.
+* **Impersonation** – Pretending to be someone else to gain access.
+* **Insider attack** – Attack by someone with authorized access.
+* **Malicious insider** – Exploits access intentionally to cause harm.
+* **Negligent insider** – Carelessly bypasses rules, exposing the org.
+* **Oblivious insider** – Unaware employee accidentally creating risk.
+* **Phishing** – Fraudulent emails tricking users into giving info.
+* **Smishing** – Phishing via SMS.
+* **Spear phishing** – Targeted phishing attack on an individual/org.
+* **Vishing** – Voice phishing via phone calls.
+* **Whaling** – Spear phishing targeting executives or VIPs.
+* **Shoulder surfing** – Stealing info by watching someone’s screen or keypad.
+* **Social engineering** – Hacking humans by manipulating trust.
+* **Tailgating** – Unauthorized entry by following an authorized person.
+* **Watering hole attack** – Infecting sites frequently visited by targets.
+* **SEO poisoning** – Fake websites ranked high in search results.
+
+---
+
+### 🔐 Security Measures & Tools
+
+* **Domain Name Server (DNS)** – The internet’s “phonebook,” translating domains into IP addresses.
+* **Multifactor Authentication (MFA)** – Requires multiple verification factors.
+* **Patch** – A software update fixing vulnerabilities.
+* **Penetration testing** – Simulating attacks to find vulnerabilities.
+* **Quad9** – Free DNS service with blacklist protection.
+* **Secure Sockets Layer (SSL)** – Encryption for secure web traffic.
+* **Spam filter** – Blocks malicious or phishing emails.
+
+---
+
+### 🏛️ Organizations & Actors
+
+* **Hacktivist** – Attacker motivated by political or social agendas.
+* **National Security Agency (NSA)** – Protects U.S. national security systems.
+* **Professional insider** – Recruited insider working for espionage orgs.
+* **X-Force** – IBM’s team of ethical hackers, researchers, and responders.
+
+---
+
+### 🤖 AI & Emerging Threats
+
+* **Hallucination** – Incorrect info generated by AI/chatbots.
+* **Retrieval Augmented Generation (RAG)** – AI strategy improving accuracy by combining external knowledge with model outputs.
+
+---
+
+✅ **Quick Tip:**
+Many terms overlap between **human manipulation (social engineering)** and **technical exploitation (malware/attacks)**. Always connect *attack type* → *defense strategy* for better recall.
+
+---
+
+# Types of Controls
+
+### 🎯 Objectives
+
+After completing this, you will be able to:
+
+* Align control functions with **administrative control types**
+* Align control functions with **physical control types**
+* Align control functions with **technical control types**
+
+---
+
+## Control Types and Functions
+
+Security controls can be **preventive, detective, deterrent, or corrective**.
+Each category (administrative, physical, technical) contributes to safeguarding assets, information, and personnel.
+
+---
+
+### 🛠 Administrative Controls
+
+* **Preventive**: Hiring/firing policies, data classification, separation of duties, mandatory vacation time
+* **Detective**: Regular audits, employee activity monitoring, anonymous reporting systems
+* **Deterrent**: Consequences of policy violation, awareness training on risks/damages
+* **Corrective**: Business continuity plan, incident response plan
+
+---
+
+### 🏢 Physical Controls
+
+* **Preventive**: Gates, locks, fences
+* **Detective**: Surveillance cameras, motion sensors, environmental monitoring, tamper detection
+* **Deterrent**: Security guards, reception desks, lighting
+* **Corrective**: Repair broken controls, deactivate/reissue lost access cards
+
+---
+
+### 💻 Technical Controls
+
+* **Preventive**: Antivirus, intrusion prevention, MFA, firewalls, ACLs
+* **Detective**: Honeypots, intrusion detection systems, SIEM
+* **Deterrent**: Warning banners, code of conduct agreements
+* **Corrective**: Vulnerability patching, virus quarantine, system reboot
+
+---
+
+⚡ **Quick Tip:**
+Controls often overlap — e.g., MFA (technical, preventive) can also act as a deterrent.
+
+---
